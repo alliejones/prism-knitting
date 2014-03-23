@@ -1,0 +1,25 @@
+pre {
+  background: #93a1a1; }
+
+code.language-knitting {
+  color: #657b83;
+  white-space: pre-wrap;
+  font-family: sans-serif; }
+
+.token {
+  color: #b58900; }
+
+.token.knit {
+  color: #268bd2; }
+
+.token.purl {
+  color: #2aa198; }
+
+.token.decr {
+  color: #dc322f; }
+
+.token.incr {
+  color: #859900; }
+
+.token.number {
+  color: #073642; }

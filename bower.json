@@ -1,0 +1,19 @@
+{
+  "name": "prism-knitting",
+  "version": "0.0.1",
+  "authors": [
+    "Allie Jones <allie@alliejon.es>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "prism": "gh-pages"
+  }
+}
